@@ -1,0 +1,9 @@
+[package]
+name = "test-ncollide"
+version = "0.1.0"
+authors = ["AlisCode <oliv.pinon@gmail.com>"]
+
+[dependencies]
+nalgebra = "*"
+ncollide = "*"
+ggez = "*"
